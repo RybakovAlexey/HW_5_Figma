@@ -44,6 +44,7 @@ figure {
 }
 
 .a__header__logo {
+  display: block;
   margin-bottom: 50px;
 }
 
